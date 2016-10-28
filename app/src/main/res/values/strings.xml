@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tennis score counter</string>
+    //EditView hint_____________________________
+    <string name="enterName">Enter Name</string>
+    //Points____________________________________
+    <string name="advantage">Adv</string>
+    <string name="firstSet">1st Set</string>
+    <string name="secondSet">2nd Set</string>
+    <string name="thirdSet">3rd Set</string>
+    //Reset, NextSet___________________________
+    <string name="reset">Reset</string>
+    <string name="nextSet">Next Set</string>
+    // Scores__________________________________
+    <string name="zeroPoint">0</string>
+    <string name="onePoint">15</string>
+    <string name="twoPoint">30</string>
+    <string name="threePoint">40</string>
+    <string name="game">Game</string>
+    <string name="win">WIN</string>
+
+
+</resources>
